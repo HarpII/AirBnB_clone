@@ -1,0 +1,18 @@
+## Ignore the following files:
+
+# Tmp files
+*~
+
+# Pycache files
+*__pycache__*
+
+# Temporarily created file from running console
+file.json
+
+*.pyc
+
+*.idea
+
+generate_authors.sh
+
+DS_Store
